@@ -3,27 +3,24 @@
 ```
 Semester: Spring 2024 
 Time: Mondays, Wednesdays, 2:30 pm - 3:45 pm from 01/16/2024 to 05/09/2024
-Location: Cashion Academic Center, C314
+Location: Sid Richardson Building, Room 225
 ```
 
 ## Course Website:
 [https://teachingchen.github.io/DSC_4320/](https://teachingchen.github.io/DSC_4320/)
 
 ## Instructor:
-Dr. Chen Zhao\
-Assistant Professor\
+Alibek Zhakubayev\
 Department of Computer Science, Baylor University\
-Office: Hankamer 330.39
-* Email: chen_zhao@baylor.edu (Important: When emailing, please add **[DSC 4320]** at the beginning of the subject line)
-* Office Hours: Mondays and Wednesdays 4:00 pm - 5:30 pm (Hankamer 330.39 OR via Microsoft Teams, **By appointment**)
-* Homepage: [https://charliezhaoyinpeng.github.io/homepage](https://charliezhaoyinpeng.github.io/homepage)
+Office: Hankamer 330.15
+* Email: alibek_zhakubayev1@baylor.edu 
+* Office Hours: Thursday 3:30 pm - 5:00 pm (Hankamer 330.15 OR via Microsoft Teams, **By appointment**)
+* Homepage: [https://alibeklfc.github.io/](https://alibeklfc.github.io/)
 
 ## Teaching Assistant:
 Yitong Chen\
-Ph.D. Student\
 Department of Computer Science, Baylor University
 * Email: yitong_chen1@baylor.edu (Important: When emailing, please add **[DSC 4320]** at the beginning of the subject line)
-* Office Hours: Tuesdays and Thursdays 1:00 pm - 2:30 pm (Cashion 417 OR via Microsoft Teams)
 * Duties: Gradings (Homeworks, Quizzes, Exams)
 
 ## Course Description:
@@ -34,21 +31,16 @@ CSI 2300, Introduction to Data Science.
 
 ## Textbook and Learning Materials:
 There is no required textbook, but the following books may serve as useful references for different parts of the course.
-* Daniel Nelson. "Data Visualization in Python", ISBN-13: 979-8582486367, [link](https://www.amazon.com/Data-Visualization-Python-Daniel-Nelson/dp/B08TZ9LWWX)
 * Claus Wilke. "Fundamentals of Data Visualization", ISBN-13: 978-1492031086, [link](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089/ref=asc_df_1492031089/?tag=hyprod-20&linkCode=df0&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&psc=1&mcid=10e0405aa6f13596a403d0f54f578323&tag=&ref=&adgrpid=69543897272&hvpone=&hvptwo=&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1aU3iz67Eoi37GSjgJTavSRYni4rkukPtHG4MZbh7yNt3_UzMeA3UaAtd4EALw_wcB)
 * Tamara Munzner. "Visualization analysis and design (AK Peters visualization series)", ISBN-13: 978-1466508910, [link](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914)
-* Colin Ware. "Visual thinking for design (Morgan Kaufmann series in interactive technologies)", ISBN-13: 978-0123708960, [link](https://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966)
+* Colin Ware. "Visual thinking for design (Morgan Kaufmann series in interactive technologies)", ISBN-13: 9780961392147, [link](https://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966)
+* Edward R. Tufte. "The Visual Display of Quantitative Information 2nd (second) edition" [link](https://www.amazon.com/gp/product/0863547125)
 
 ## Requirements and Grading: 
 This course is A-F graded, and the grades are determined based on graded assignments:
 * Exams: 25%
 * Final Project: 25%
 * Homework Assignments: 25%
-  - For each homework, you can submit your answers up to 2 times.
-  - Answer at least 50% of questions correctly for the 1st submission (Otherwise, no 2nd submission is allowed).
-  - After giving the grade of the 1st submission, you have one week to upload the 2nd submission. If the 2nd submission cannot be completed within one week, the grade will be based on the 1st submission. 
-  - Final grades are subject to the 2nd submission.
-  - The late submission policy refers to [Missed Exams, Homeworks, and Quizzes](https://teachingchen.github.io/DSC_4320/#missed-exams-homeworks-and-quizzes:~:text=Missed%20Exams%2C%20Homeworks%2C%20and%20Quizzes%3A)).
 * Quizzes: 15%
   - Randomly given in class.
 * Attendance: 10%
