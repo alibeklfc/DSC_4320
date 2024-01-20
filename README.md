@@ -64,19 +64,22 @@ No makeup exams and quizzes will be given.
 
 ## Tentative Course Outline:
 
-| Lectures  | Topics                                     	|
-|---------	|--------------------------------------------	|
-| 1       	| Course Introduction                        	|
-| 2       	| Review of Python                            |
-| 3       	| Data Types and Basic Visualization          | 
-| 4       	| Visualization with Matplotlib and Seaborn   | 
-| 5       	| Multivariate and High-Dimensional Data Visualization   | 
-| 6       	| Data Wrangling with Pandas     	            |  
-| 7       	| Introduction to Machine Learning Models     |    
-| 8       	| Machine Learning Visualization              |                  
-| 9       	| Dynamic Visualization                       |                       
-| 10       	| Other Visualization Tools      	            |                    
-                   	 
+| Lectures  | Topics                                     	                        |
+|---------	|---------------------------------------------------------------------|
+| 1       	| Course Introduction                        	                        |
+| 2       	| Review of Python and Data Mapping                                   |
+| 3       	| Data Types, Basic Visualization, and Taxonomy                       | 
+| 4       	| Visualization with Matplotlib, Seaborn, and Animated Transitions    | 
+| 5       	| Design Principles                                                   | 
+| 6       	| Color Theory and Data Wrangling with Pandas     	                  |  
+| 7       	| Perceptual and Cognitive Psychology in Visualization                |    
+| 8       	| Introduction to Machine Learning Models                             |                  
+| 9       	| Machine Learning Visualization                                      |                       
+| 10       	| High Dimensional Visualizations and Other Visualization Tools      	|       
+| 11       	| Time Series and Multivariate Data Visualization      	              |    
+| 12       	| Hierarchical Visualizations and Graph Representations      	        |    
+
+
 
       
 ## Some Policies and Services:
