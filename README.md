@@ -45,8 +45,6 @@ This course is A-F graded, and the grades are determined based on graded assignm
   - Randomly given in class.
 * Attendance: 10%
   - Class attendance is required. Refer to [here](https://rb.gy/6alrf).
-* Bonus: 5%
-  - Extra on top of the final grade.
 
 Your final grade will be based on a scale of 100 points:
 
